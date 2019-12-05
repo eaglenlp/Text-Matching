@@ -38,6 +38,7 @@ Information**. *AAAI 2019*. [[PDF](https://www.aaai.org/ojs/index.php/AAAI/artic
 17. **Siamese Recurrent Architectures for Learning Sentence Similarity**. *AAAI 2016*. [[PDF](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/viewPDFInterstitial/12195/12023)]
 18. **Recurrent convolutional neural networks for text classification**. *AAAI 2015*. [[PDF](https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/download/9745/9552)]
 19. **Learning to Rank Short Text Pairs with Convolutional Deep Neural Networks**. *SIGIR 2015*. [[PDF](http://eecs.csuohio.edu/~sschung/CIS660/RankShortTextCNNACM2015.pdf)]
+20. Matching Article Pairs with Graphical Decomposition and Convolutions. *ACL 2019*. [[PDF](https://www.aclweb.org/anthology/P19-1632.pdf)]
 
 ### Metrics for Text Matching
 1. **Improving the Similarity Measure of Determinantal Point Processes for Extractive Multi-Document Summarization**. *ACL 2019*. [[PDF](https://arxiv.org/pdf/1906.00072)]
