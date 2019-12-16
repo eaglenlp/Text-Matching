@@ -33,7 +33,7 @@ Information**. *AAAI 2019*. [[PDF](https://www.aaai.org/ojs/index.php/AAAI/artic
 15. **Knowledge Enhanced Hybrid Neural Network for Text Matching**. *AAAI 2018*. [[PDF](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/download/16225/16116)]
 16. **Improved Representation Learning for Question Answer Matching**. *ACL 2016*. [[PDF](https://www.aclweb.org/anthology/P16-1044.pdf)]
 17. **Siamese Recurrent Architectures for Learning Sentence Similarity**. *AAAI 2016*. [[PDF](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/viewPDFInterstitial/12195/12023)]
-18. Recurrent convolutional neural networks for text classification. *AAAI 2015*. [[PDF](https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/download/9745/9552)]
+18. **Recurrent convolutional neural networks for text classification**. *AAAI 2015*. [[PDF](https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/download/9745/9552)]
 19. Learning to Rank Short Text Pairs with Convolutional Deep Neural Networks. *SIGIR 2015*. [[PDF](http://eecs.csuohio.edu/~sschung/CIS660/RankShortTextCNNACM2015.pdf)]
 
 
