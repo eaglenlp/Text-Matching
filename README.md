@@ -7,7 +7,7 @@
 ### *Text Matching - CNN*
 **A Convolutional Neural Network for Modelling Sentences**. *ACL 2014*. [[PDF]()]
 
-**Learning to Rank Short Text Pairs with Convolutional Deep Neural Networks**. *SIGIR 2015*. 
+**Learning to Rank Short Text Pairs with Convolutional Deep Neural Networks**. *SIGIR 2015*.  [[PDF](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.723.6492&rep=rep1&type=pdf)]
 
 
 ### *Text Matching - RNN*
