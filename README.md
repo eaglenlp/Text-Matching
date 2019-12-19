@@ -19,7 +19,7 @@
 
 
 ### *Text Matching - Attentive*
-Bridging the Gap of Relevance Matching and Semantic Matching with Hierarchical Co-Attention Network. *EMNLP 2019*. [[PDF](https://pdfs.semanticscholar.org/9082/0988957e74db0fbb1df79175610e08016ba4.pdf)]
+**Bridging the Gap of Relevance Matching and Semantic Matching with Hierarchical Co-Attention Network**. *EMNLP 2019*. [[PDF](https://pdfs.semanticscholar.org/9082/0988957e74db0fbb1df79175610e08016ba4.pdf)]
 
 Aggregating Bidirectional Encoder Representations Using MatchLSTM for Sequence Matching. *EMNLP 2019*. [[PDF](https://www.aclweb.org/anthology/D19-1626.pdf)]
 
