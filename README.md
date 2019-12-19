@@ -10,7 +10,7 @@
 **Learning to Rank Short Text Pairs with Convolutional Deep Neural Networks**. *SIGIR 2015*.  [[PDF](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.723.6492&rep=rep1&type=pdf)]
 
 
-### *Text Matching - RNN*
+### *Text Matching - RNN/LSTM*
 **Recurrent convolutional neural networks for text classification**. *AAAI 2015*. [[PDF](https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/download/9745/9552)]
 
 **Siamese Recurrent Architectures for Learning Sentence Similarity**. *AAAI 2016*. [[PDF](https://www.aaai.org/ocs/index.php/AAAI/AAAI16/paper/viewPDFInterstitial/12195/12023)]
