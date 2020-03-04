@@ -41,6 +41,8 @@ DRr-Net: Dynamic Re-read Network for Sentence Semantic Matching. *AAAI 2019*. [[
 
 **Optimal Transport-based Alignment of Learned Character Representations for String Similarity**. *ACL 2019*. [[PDF](https://arxiv.org/pdf/1907.10165)]
 
+Multi‐level Head‐wise Match and Aggregation in Transformer for Textual Sequence Matching. *AAAI 2020*.
+
 
 ## *Text Matching - Metrics*
 **Improving the Similarity Measure of Determinantal Point Processes for Extractive Multi-Document Summarization**. *ACL 2019*. [[PDF](https://arxiv.org/pdf/1906.00072)]
@@ -56,8 +58,6 @@ Quantifying Similarity between Relations with Fact Distribution. *ACL 2019*. [[P
 Density Matching for Bilingual Word Embedding. *NAACL 2019*. [[PDF](https://www.aclweb.org/anthology/N19-1161)] \
 *In this paper, we propose an approach that instead expresses the two monolingual embedding spaces as
 probability densities defined by a Gaussian mixture model, and matches the two densities using a method called normalizing flow.*
-
-
 
 
 ## *Text Matching - Latent Variable*
@@ -78,10 +78,11 @@ Knowledge Enhanced Hybrid Neural Network for Text Matching. *AAAI 2018*. [[PDF](
 
 ## *Text Matching - Application*
 Semantic Text Matching for Long-Form Documents. *WWW 2019*. [[PDF](https://dl.acm.org/citation.cfm?id=3313707)]
+Knowledge and Cross‐Pair Pattern Guided Semantic Matching for Question Answering. *AAAI 2020*.
 
+## *Text Matching - Multimodal*
 A Multimodal Text Matching Model for Obfuscated Language Identification in Adversarial Communication. *WWW 2019*. [[PDF](https://dl.acm.org/ft_gateway.cfm?id=3313410&ftid=2057270&dwn=1&CFID=170138107&CFTOKEN=a7c6ebaf4135480a-B4350875-A08C-34F8-4E6099F3994307CD)]
-
-
-
+HAL: Improved Text-Image Matching by Mitigating Visual Semantic Hubs. *AAAI 2020*.
+Expressing Objects just like Words: Recurrent Visual Embedding for Image‐Text Matching. *AAAI 2020*.
 
 
