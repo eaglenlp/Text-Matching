@@ -85,4 +85,7 @@ A Multimodal Text Matching Model for Obfuscated Language Identification in Adver
 HAL: Improved Text-Image Matching by Mitigating Visual Semantic Hubs. *AAAI 2020*.
 Expressing Objects just like Words: Recurrent Visual Embedding for Image‐Text Matching. *AAAI 2020*.
 
+## *Others*
+Leveraging Meta Information in Short Text Aggregation. *ACL 2019*
+
 
